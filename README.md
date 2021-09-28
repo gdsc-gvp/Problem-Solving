@@ -16,7 +16,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Problem-Solving
-A place where you can learn and practise various Problems and algorithms
+Problem solving is an art of solving some real time challenges. And this is a place to get started, you can find many problems to solve, learn and implement here. This repo covers all kinds of data structures like Arrays, Stacks, Queues, Trees, Graphs and many more.
 
 ## Contributing  
 This repository is contribution friendly. If you'd like to add or improve any algorithm, your contribution is welcome!  
