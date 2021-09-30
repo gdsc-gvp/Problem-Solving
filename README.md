@@ -15,8 +15,43 @@
 <!-- [![All Contributors](https://img.shields.io/badge/all_contributors-69-orange.svg?style=flat-square)](#contributors-) -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Problem-Solving
+<h1 align="center"> Problem-Solving </h1>
 Problem solving is an art of solving some real time challenges. And this is a place to get started, you can find many problems to solve, learn and implement here. This repo covers all kinds of data structures like Arrays, Stacks, Queues, Trees, Graphs and many more.
+
+## This Repository was a part of the following Open Source Program
+
+![image](https://user-images.githubusercontent.com/60481830/135203439-e99fed00-6f63-4a63-a383-78a6d7eb6ffe.png)
+
+
+<h1 align="center"> Hacktoberfest 2021 </h1>
+
+<h3 align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        Link To HacktoberFest 2021
+    </a>
+</h3>
+
+## Event details :
+
+- Hacktoberfest® is open to everyone . Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. 
+- All backgrounds and skill levels are encouraged to complete the challenge.
+- Hacktoberfest is a celebration open to everyone.
+- You can sign up anytime between October 1 and October 31.
+
+---
+
+## HacktoberFest Rules :
+
+- To earn your Hacktoberfest tee or tree reward, you must register and make four valid pull requests (PRs) between October 1-31 (in any time zone). 
+- Pull requests can be made in any participating GitHub or GitLab hosted repository/project. Look for the 'hacktoberfest' topic to know if a repository/project is participating in Hacktoberfest. 
+- Pull requests must be approved by a maintainer of the repository/project to count. 
+- If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate. 
+- This year, the first 55,000 participants who successfully complete the challenge will be eligible to receive a prize.
+
+***
+<h3 align="center"> Whether it’s your first or fiftieth pull request, there’s always more to learn! We’ve put together a few resources that can help you create quality pull requests, keep your repositories pristine, and build on your open source knowledge. </h3>
+
+***
 
 ## Contributing  
 This repository is contribution friendly. If you'd like to add or improve any algorithm, your contribution is welcome!  
