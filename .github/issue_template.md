@@ -11,12 +11,11 @@ Mention the coding platform from where you have picked the problem
 <!--
 Leave it unchecked Owner will mark it :)
 -->
-
--   [ ] C
--   [ ] C++
--   [ ] Java
--   [ ] Python
--   [ ] Javascript
+- [ ] C
+- [ ] C++
+- [ ] Java
+- [ ] Python
+- [ ] JavaScript
 
 ### Additional context (OPTIONAL)
 
