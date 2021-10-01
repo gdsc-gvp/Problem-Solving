@@ -64,3 +64,4 @@ Don't forget to follow [Contribution Guidelines](.github/CONTRIBUTING.md) 😃
 * C++
 * Python 
 * Java
+* Javascript
