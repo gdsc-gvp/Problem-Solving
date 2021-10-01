@@ -1,8 +1,9 @@
+// problem statement: https://codeforces.com/problemset/problem/1560/A
+
 #include <bits/stdc++.h>
 
 using namespace std;
 
-// problem statement: https://codeforces.com/problemset/problem/1560/A
 int main()
 {
 	int t;
