@@ -12,6 +12,6 @@ Leave it unchecked Owner will mark it :)
 - [ ] C++
 - [ ] Java
 - [ ] Python
-
+- [ ] JavaScript
 ### Additional context (OPTIONAL)
 Add any other context or screenshots about the feature request here.
