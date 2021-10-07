@@ -65,3 +65,9 @@ Don't forget to follow [Contribution Guidelines](.github/CONTRIBUTING.md) 😃
 * Python 
 * Java
 * Javascript
+
+
+## Thanks to all the contributors ❤️
+<a href = "https://github.com/gdsc-gvp/Problem-Solving/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=gdsc-gvp/Problem-Solving"/>
+</a>
