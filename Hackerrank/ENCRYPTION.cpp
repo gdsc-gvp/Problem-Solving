@@ -11,6 +11,7 @@ int main()
     cin>>s;
     int l,i,j,r,c,k=0,p=0;
     remove(s.begin(), s.end(), ' ');
+    
     l=s.length();
     r=floor(sqrt(l));
     c=ceil(sqrt(l));
