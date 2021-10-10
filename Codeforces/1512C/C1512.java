@@ -1,3 +1,6 @@
+/**
+    problem link : https://codeforces.com/problemset/problem/1512/C
+*/
 import java.io.PrintWriter;
 import java.util.Scanner;
 
